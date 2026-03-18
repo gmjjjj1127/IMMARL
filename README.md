@@ -1,7 +1,7 @@
-# IMMARL: nterpretable Multi-Modal Attentive
-Representation Learning for Accurate RNA
-Property Prediction
+# IMMARL: Interpretable Multi-Modal Attentive Representation Learning for Accurate RNA Property Prediction
+
 For any questions or further information, please reach out to Haitao Fu (Email: fuhaitao@hubu.edu.cn, https://ai.hubu.edu.cn/info/1025/2041.htm).
+
 ## Project Structure
 
 `dataset_multimodal.py`: Handles multi-modal data loading (1D sequence, 2D topology, 3D geometry), PDB parsing for RNA structures, graph construction, and dataset-specific cleaning logic (Covid, Tcribo, Fungal).
